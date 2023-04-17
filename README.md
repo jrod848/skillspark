@@ -1,1 +1,2 @@
-# skillspark
+# SkillSpark
+SkillSpark is a submission for the Wix hackathon that aims to simplify the process of writing the skills section of resumes. The solution utilizes OpenAI's language generation capabilities to create a personalized skills section based on the job title/role of the applicant. With SkillSpark, users can input their job title/role and receive a generated list of relevant skills that can be easily added to their resume. This automated process can save time and improve the accuracy of the skills section, while also increasing the chances of the resume being noticed by potential employers. Overall, SkillSpark has the potential to revolutionize the job application process by streamlining and automating the resume writing process.
